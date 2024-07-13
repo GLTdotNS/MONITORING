@@ -1,6 +1,6 @@
 # Monitoring
 
-![GitHub](https://img.shields.io/github/license/GLTdotNS/Monitoring)
+![GitHub](https://img.shields.io/github/license/GLTdotNS/MONITORING)
 
 ## Overview
 
