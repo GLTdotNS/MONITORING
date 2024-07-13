@@ -51,7 +51,6 @@ The project is structured into modules, each focusing on specific system monitor
 
 Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/GLTdotNS/Monitoring.git
 cd Monitoring
 
@@ -60,7 +59,7 @@ cd Monitoring
 Usage
 Navigate to the project directory and run main.py:
 
-bash
+``bash
 Copy code
 python main.py
 Follow the on-screen instructions to navigate through different options and sub-options.
@@ -74,13 +73,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments
 Hat tip to anyone whose code was used.
 
-Contact
-Georgi Tonkov - Your Email Here
 
 Project Link: https://github.com/GLTdotNS/Monitoring
-
-vbnet
-Copy code
 
 This text incorporates the structure and content from the previous README.md file and includes standard sections such as Overview, Architecture, Features, Installation, Usage, Contributing, License, Acknowledgments, and Contact. If you need any adjustments or further details, feel free to let me know!
 
